@@ -1,0 +1,42 @@
+.intro
+{background-color: #b3ccc1;} 
+h1{margin:0px;
+    padding-top: 3cm;
+    font-family: 'Caveat', cursive;
+    font-size: 5.5em;
+    color: #3E9C87;}
+h2 {color: #11999e}
+body{margin-top: 0px;
+    margin-left: 0px;
+    margin-right:0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;}
+.intro {position: relative;}
+.cloud-a {position: absolute; 
+    right: 175px;}
+.cloud-b {position: absolute;
+    left: 200px;
+    bottom: 100px;}
+.pro {text-decoration: underline; }
+.mountain   { position: relative;
+    top: 4.7px;}
+.hi {position: relative;
+    top: 0.4cm;
+    height: 250px;
+    width: 250px;}
+.computer {
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-left: 30px;}
+.game {
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px; }
+.skill-row {width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1cm;}
+    .myself {line-height: 1cm;}
+a {color: #11999e;}
